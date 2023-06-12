@@ -40,9 +40,6 @@ I'm Prem, a full-time full-stack freelance developer 👨‍💻 working remotel
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Prem2505&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Prem2505&icon=5&color=6)](https://visitcount.itsvg.in)
 
